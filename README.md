@@ -31,4 +31,4 @@ A motivated Computer Engineering student with hands-on experience in **Unity gam
 ---
 
 ## 📬 Contact  
-- **Email:** ritwikpathak11@gmail.com  
+- **Email:** ritwikpathak111@gmail.com  
