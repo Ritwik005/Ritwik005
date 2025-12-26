@@ -7,7 +7,8 @@ A motivated Computer Engineering student with hands-on experience in **Unity gam
 ---
 
 ## 🛠️ Skills  
-- **Programming:** C++, C#, Python  
+- **Programming:** C++, C#, Python
+- **Other Languages:** HTML, CSS, JavaScript
 - **Game Development:** Unity, Unreal Engine, Game Packaging  
 - **Content Creation:** Video Editing (Adobe Tools), Creative Writing  
 - **Design & Modeling:** 3D Modeling (Blender), UI/UX Design  
