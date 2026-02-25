@@ -27,14 +27,10 @@
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritwik005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritwik005&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ritwik005&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik005&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+
