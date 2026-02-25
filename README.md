@@ -25,9 +25,6 @@
 
 ---
 
-## Stats
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ritwik005&theme=tokyonight&cache_seconds=1800" />
 </p>
