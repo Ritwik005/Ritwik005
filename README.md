@@ -1,14 +1,40 @@
-# Ritwik Pathak  
-**Computer Engineering Undergraduate | Unity Game Developer | Content Creator**
+<h1 align="center">Ritwik Pathak</h1>
+<h3 align="center">Computer Engineering Undergraduate | Unity Game Developer | Content Creator</h3>
 
-## 👤 Profile Summary  
-A motivated Computer Engineering student with hands-on experience in **Unity game development**, **video editing**, and **creative content creation**. Skilled in multiple programming languages and passionate about building interactive games and digital experiences. Enjoys exploring new technologies in game development and PC hardware.
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Technologies
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### Content Creation
+![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
 
 ---
 
-## 🛠️ Skills  
-- **Programming:** C, C++, C#, Python
-- **Other Languages:** HTML, CSS, JavaScript
-- **Game Development:** Unity, Unreal Engine  
-- **Content Creation:** Video Editing (Adobe After Effects, Capcut), Creative Writing  
-- **Soft Skills:** Problem-solving, Project Lifecycle Management  
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritwik005&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritwik005&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik005&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
