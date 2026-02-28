@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ritwik005&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritwik005&theme=github_dark" alt="Profile Details"/>
 </p>
 
 
