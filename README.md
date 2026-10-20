@@ -1,5 +1,5 @@
 <h1 align="center">Ritwik Pathak</h1>
-<h3 align="center">Computer Engineering Undergraduate | Unity Game Developer | Content Creator</h3>
+<h3 align="center">Computer Engineering Undergraduate | Unity Game Developer</h3>
 
 
 ## 🛠️ Tech Stack
@@ -18,16 +18,3 @@
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-### Content Creation
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ritwik005&theme=github_dark" alt="Profile Details"/>
-</p>
-
-
-
